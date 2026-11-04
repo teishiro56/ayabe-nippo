@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="900" viewBox="0 0 680 900" role="img" aria-labelledby="title desc"><title id="title">XREAL AURAは眼鏡と別体パックの二つで動く</title><desc id="desc">グラス95グラム未満は眼鏡部分だけ。ケーブルで約265グラムのコンピュートパックにつなぎ、処理装置と電池を分離する。透明レンズ越しの現実にアプリ画面を重ねる。</desc><rect width="680" height="900" fill="#f2f6f2"/><g font-family="Noto Sans CJK JP,sans-serif" fill="#203d35"><text x="30" y="48" font-size="32" font-weight="bold">眼鏡で見る、別パックで計算</text><text x="30" y="92" font-size="28">95g未満は「グラス部分」の重さ</text>
+<g stroke="#b1c0b7" stroke-width="3" fill="none"><path d="M60 140H615V375H60Z M60 140L135 180V330L60 375 M135 180H540V330H135 M540 180L615 140 M540 330L615 375"/><path d="M200 325L230 280H450L480 325 M215 325V355 M465 325V355"/></g>
+<rect x="170" y="185" width="150" height="105" rx="7" fill="#b9d9db" fill-opacity=".85" stroke="#246855" stroke-width="3"/><path d="M185 210H300 M185 232H285 M185 254H275" stroke="#246855" stroke-width="3"/>
+<rect x="362" y="210" width="140" height="95" rx="7" fill="#d9dfb8" fill-opacity=".85" stroke="#6a7543" stroke-width="3"/><path d="M378 235H485 M378 256H470 M378 278H477" stroke="#6a7543" stroke-width="3"/>
+<text x="30" y="420" font-size="28">現実を透明レンズ越しに見ながら</text><text x="30" y="460" font-size="28">アプリの画面を空間に重ねる</text>
+<g stroke="#203d35" stroke-width="8" fill="#d8e7e0"><path d="M85 510Q170 490 250 510L240 577Q160 600 105 574Z M280 510Q360 490 440 510L420 574Q360 600 288 577Z"/><path d="M250 523Q267 510 280 523 M85 514L48 490 M440 514L488 490" fill="none"/></g>
+<text x="70" y="636" font-size="28">グラス 95g未満</text>
+<path d="M440 530C585 530 590 565 590 620L590 670" stroke="#5b6d63" stroke-width="5" fill="none"/>
+<rect x="445" y="665" width="190" height="115" rx="30" fill="#ced9d0" stroke="#203d35" stroke-width="4"/><rect x="472" y="688" width="90" height="65" rx="16" fill="#e7ede8" stroke="#5b6d63" stroke-width="2"/>
+<text x="30" y="702" font-size="28">有線でつなぐ</text><text x="30" y="746" font-size="28">別パック 約265g</text><text x="30" y="790" font-size="28">処理装置・バッテリーを分離</text>
+<text x="30" y="840" font-size="26">構成の模式図。形・寸法・見え方は非再現。</text><text x="30" y="878" font-size="25">出典：XREAL・Google／アヤベ日報作図</text></g></svg>
