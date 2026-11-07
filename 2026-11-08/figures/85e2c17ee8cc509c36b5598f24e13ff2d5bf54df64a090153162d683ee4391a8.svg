@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="530" viewBox="0 0 360 530" role="img" aria-labelledby="title desc">
+<title id="title">新津田沼から千葉寺、運賃の境界がなくなると</title><desc id="desc">現在は松戸線170円、本線系統250円、千原線180円を合算して600円。改定案では同じ移動を本線系統の運賃390円で計算し、210円安くなる。棒の長さは金額比例。2028年3月実施を目指す申請段階。</desc>
+<rect width="360" height="530" fill="#f1eee5"/><g font-family="Noto Sans CJK JP,sans-serif" fill="#243c39">
+<text x="20" y="32" font-size="20" font-weight="700">旅は同じ。運賃の境界が変わる</text>
+<text x="20" y="61" font-size="17">新津田沼 → 千葉寺</text>
+<text x="20" y="100" font-size="18" font-weight="700">現在：三つの運賃を足す</text>
+<rect x="20" y="116" width="85" height="55" fill="#396e61"/><rect x="105" y="116" width="125" height="55" fill="#507d9a"/><rect x="230" y="116" width="90" height="55" fill="#9d6739"/>
+<g fill="white" font-size="18" text-anchor="middle"><text x="62.5" y="150">170</text><text x="167.5" y="150">250</text><text x="275" y="150">180</text></g>
+<g font-size="16" text-anchor="middle"><text x="62" y="195">松戸線</text><text x="167" y="195">本線系統</text><text x="275" y="195">千原線</text></g>
+<text x="20" y="226" font-size="19">170 ＋ 250 ＋ 180 ＝ 600円</text>
+<path d="M105 112v65 M230 112v65" stroke="#f1eee5" stroke-width="3"/>
+<text x="20" y="280" font-size="18" font-weight="700">改定案：通して一つの運賃に</text>
+<rect x="20" y="298" width="195" height="55" fill="#507d9a"/><text x="117.5" y="333" text-anchor="middle" font-size="19" fill="white">390円</text>
+<path d="M215 365h105 M215 358v14 M320 358v14" stroke="#9d6739" stroke-width="2"/>
+<text x="267" y="397" text-anchor="middle" font-size="18" fill="#885127">210円減</text>
+<text x="20" y="381" font-size="17">本線系統</text>
+<text x="20" y="438" font-size="16">棒の長さは金額に比例（1円＝0.5px）</text>
+<text x="20" y="467" font-size="16">普通運賃の例。路線距離の図ではない。</text>
+<text x="20" y="495" font-size="16">2028年3月を目指す申請で、未認可。</text>
+<text x="20" y="518" font-size="14">京成電鉄 2026年11月6日資料 p.4より作図</text>
+</g></svg>
