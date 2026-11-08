@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="630" viewBox="0 0 360 630" role="img" aria-labelledby="title desc">
+  <title id="title">二つの検出範囲が重なるため、明るさだけでは細胞の状態を決められない</title>
+  <desc id="desc">BioBasicsBenchの蛍光画像課題を説明する自作図。SYTOX標識の検出チャンネル2は470から540ナノメートル、FUN-1緑のチャンネル3は525から580ナノメートル。共通範囲は525から540ナノメートル。図の帯は光を拾う波長の範囲であり、光の強さや実際の混入量ではない。</desc>
+  <defs>
+    <pattern id="hatch" patternUnits="userSpaceOnUse" width="7" height="7" patternTransform="rotate(30)">
+      <path d="M0 0V7" stroke="#704313" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="360" height="630" rx="14" fill="#fbfaf6"/>
+  <g font-family="Noto Sans CJK JP, sans-serif" fill="#182a33">
+    <text x="22" y="37" font-size="21" font-weight="700">明るい＝死細胞、</text>
+    <text x="22" y="66" font-size="21" font-weight="700">とは限らない</text>
+    <text x="22" y="97" font-size="16">光を拾う波長の範囲が重なる</text>
+
+    <rect x="180" y="167" width="33.231" height="157" fill="#f7e5c8"/>
+    <text x="22" y="137" font-size="16" font-weight="700">チャンネル2：SYTOX標識</text>
+    <text x="22" y="160" font-size="16">470〜540 nm</text>
+    <rect x="58.154" y="177" width="155.077" height="32" rx="3" fill="#35778c" stroke="#182a33" stroke-width="1.5"/>
+    <rect x="180" y="177" width="33.231" height="32" fill="#f6deb7"/>
+    <rect x="180" y="177" width="33.231" height="32" fill="url(#hatch)" stroke="#704313" stroke-width="1.5"/>
+
+    <text x="22" y="246" font-size="16" font-weight="700">チャンネル3：FUN-1 緑</text>
+    <text x="22" y="269" font-size="16">525〜580 nm</text>
+    <rect x="180" y="286" width="121.846" height="32" rx="3" fill="#d6e5dd" stroke="#182a33" stroke-width="1.5"/>
+    <rect x="180" y="286" width="33.231" height="32" fill="#f6deb7"/>
+    <rect x="180" y="286" width="33.231" height="32" fill="url(#hatch)" stroke="#704313" stroke-width="1.5"/>
+
+    <path d="M36 341H324 M58.154 337V347 M124.615 337V347 M213.231 337V347 M301.846 337V347" fill="none" stroke="#687b84" stroke-width="1.4"/>
+    <g font-size="15" text-anchor="middle">
+      <text x="58.154" y="367">470</text>
+      <text x="124.615" y="367">500</text>
+      <text x="213.231" y="367">540</text>
+      <text x="301.846" y="367">580</text>
+    </g>
+    <text x="324" y="391" text-anchor="end" font-size="15">波長（nm）</text>
+
+    <rect x="22" y="413" width="316" height="138" rx="9" fill="#f4eadb"/>
+    <rect x="36" y="429" width="22" height="19" fill="url(#hatch)" stroke="#704313"/>
+    <text x="68" y="445" font-size="17" font-weight="700">重なる範囲：525〜540 nm</text>
+    <text x="36" y="476" font-size="16">別の色素の光を拾う可能性がある。</text>
+    <text x="36" y="501" font-size="16">どの色素の光か確かめるため、</text>
+    <text x="36" y="526" font-size="16">適切な比較用の対照が必要になる。</text>
+
+    <text x="22" y="578" font-size="14">帯は検出範囲。光の強さは示さない。</text>
+    <text x="22" y="599" font-size="14">実際の混入量は未測定。</text>
+    <text x="22" y="620" font-size="13">出典：OpenAI（2026年11月6日）／自作図</text>
+  </g>
+</svg>

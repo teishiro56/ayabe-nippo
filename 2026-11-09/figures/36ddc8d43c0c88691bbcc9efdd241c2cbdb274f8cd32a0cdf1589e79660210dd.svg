@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="895" viewBox="0 0 360 895" role="img" aria-labelledby="title desc">
+<title id="title">バークシャーの営業利益の増減要因</title>
+<desc id="desc">2025年7～9月期の13485百万ドルから、保険引受で1017、保険運用で447減少。鉄道280、エネルギー123、製造等426の増益を加え、その他145の減益を差し引き、2026年7～9月期は12705百万ドル。横軸は11000から14000を拡大表示。</desc>
+<rect width="360" height="895" rx="12" fill="#faf8f3"/>
+<g font-family="Noto Sans CJK JP, sans-serif" fill="#172b3b">
+<text x="20" y="34" font-size="20" font-weight="700">保険の減益を</text>
+<text x="20" y="62" font-size="20" font-weight="700">他の事業が一部相殺</text>
+<text x="20" y="91" font-size="16">バークシャー／7～9月期</text>
+<text x="20" y="116" font-size="14">単位：百万米ドル（税引き後）</text>
+<text x="20" y="138" font-size="14">横軸は11,000～14,000を拡大表示</text>
+
+<line x1="26.000" y1="174" x2="26.000" y2="737" stroke="#d6dde0" stroke-dasharray="2 5"/><text x="26.000" y="166" text-anchor="start" font-size="13" fill="#516575">11,000</text>
+<line x1="128.667" y1="174" x2="128.667" y2="737" stroke="#d6dde0" stroke-dasharray="2 5"/><text x="128.667" y="166" text-anchor="middle" font-size="13" fill="#516575">12,000</text>
+<line x1="231.333" y1="174" x2="231.333" y2="737" stroke="#d6dde0" stroke-dasharray="2 5"/><text x="231.333" y="166" text-anchor="middle" font-size="13" fill="#516575">13,000</text>
+<line x1="334.000" y1="174" x2="334.000" y2="737" stroke="#d6dde0" stroke-dasharray="2 5"/><text x="334.000" y="166" text-anchor="end" font-size="13" fill="#516575">14,000</text>
+<text x="20" y="191" font-size="16" font-weight="700">2025年：13,485</text><circle cx="281.127" cy="208" r="5" fill="#172b3b"/>
+<line x1="281.127" y1="208" x2="281.127" y2="262" stroke="#6a7c88" stroke-width="1.3" stroke-dasharray="3 3"/>
+<rect x="15" y="220" width="328" height="25" fill="#faf8f3"/><text x="20" y="239" font-size="16" font-weight="500">保険引受</text><text x="340" y="239" text-anchor="end" font-size="16" font-weight="700" fill="#a53b2e">−1,017</text>
+<rect x="176.715" y="252" width="104.412" height="20" fill="#a53b2e" rx="2"/>
+
+<circle cx="176.715" cy="262" r="3.2" fill="#172b3b"/><text x="176.715" y="295" text-anchor="middle" font-size="14" font-weight="600">12,468</text>
+<line x1="176.715" y1="262" x2="176.715" y2="344" stroke="#6a7c88" stroke-width="1.3" stroke-dasharray="3 3"/>
+<rect x="15" y="302" width="328" height="25" fill="#faf8f3"/><text x="20" y="321" font-size="16" font-weight="500">保険運用</text><text x="340" y="321" text-anchor="end" font-size="16" font-weight="700" fill="#a53b2e">−447</text>
+<rect x="130.823" y="334" width="45.892" height="20" fill="#a53b2e" rx="2"/>
+
+<circle cx="130.823" cy="344" r="3.2" fill="#172b3b"/><text x="130.823" y="377" text-anchor="middle" font-size="14" font-weight="600">12,021</text>
+<line x1="130.823" y1="344" x2="130.823" y2="426" stroke="#6a7c88" stroke-width="1.3" stroke-dasharray="3 3"/>
+<rect x="15" y="384" width="328" height="25" fill="#faf8f3"/><text x="20" y="403" font-size="16" font-weight="500">貨物鉄道 BNSF</text><text x="340" y="403" text-anchor="end" font-size="16" font-weight="700" fill="#1b6c69">+280</text>
+<rect x="130.823" y="416" width="28.747" height="20" fill="#1b6c69" rx="2"/>
+
+<circle cx="159.569" cy="426" r="3.2" fill="#172b3b"/><text x="159.569" y="459" text-anchor="middle" font-size="14" font-weight="600">12,301</text>
+<line x1="159.569" y1="426" x2="159.569" y2="508" stroke="#6a7c88" stroke-width="1.3" stroke-dasharray="3 3"/>
+<rect x="15" y="466" width="328" height="25" fill="#faf8f3"/><text x="20" y="485" font-size="16" font-weight="500">エネルギー</text><text x="340" y="485" text-anchor="end" font-size="16" font-weight="700" fill="#1b6c69">+123</text>
+<rect x="159.569" y="498" width="12.628" height="20" fill="#1b6c69" rx="2"/>
+
+<circle cx="172.197" cy="508" r="3.2" fill="#172b3b"/><text x="172.197" y="541" text-anchor="middle" font-size="14" font-weight="600">12,424</text>
+<line x1="172.197" y1="508" x2="172.197" y2="590" stroke="#6a7c88" stroke-width="1.3" stroke-dasharray="3 3"/>
+<rect x="15" y="548" width="328" height="25" fill="#faf8f3"/><text x="20" y="567" font-size="16" font-weight="500">製造・サービス・小売</text><text x="340" y="567" text-anchor="end" font-size="16" font-weight="700" fill="#1b6c69">+426</text>
+<rect x="172.197" y="580" width="43.736" height="20" fill="#1b6c69" rx="2"/>
+
+<circle cx="215.933" cy="590" r="3.2" fill="#172b3b"/><text x="215.933" y="623" text-anchor="middle" font-size="14" font-weight="600">12,850</text>
+<line x1="215.933" y1="590" x2="215.933" y2="672" stroke="#6a7c88" stroke-width="1.3" stroke-dasharray="3 3"/>
+<rect x="15" y="630" width="328" height="25" fill="#faf8f3"/><text x="20" y="649" font-size="16" font-weight="500">その他</text><text x="340" y="649" text-anchor="end" font-size="16" font-weight="700" fill="#a53b2e">−145</text>
+<rect x="201.047" y="662" width="14.887" height="20" fill="#a53b2e" rx="2"/>
+
+<circle cx="201.047" cy="672" r="3.2" fill="#172b3b"/><text x="201.047" y="705" text-anchor="middle" font-size="14" font-weight="600">12,705</text>
+<line x1="20" y1="746" x2="340" y2="746" stroke="#a9b7bc"/>
+<text x="20" y="776" font-size="18" font-weight="700">2026年：12,705</text>
+<rect x="16" y="790" width="328" height="47" rx="7" fill="#e8e6df"/>
+<text x="30" y="821" font-size="19" font-weight="700">全社では780減（約5.8％）</text>
+<text x="20" y="858" font-size="13">会社定義の営業利益。前年同期との比較。</text>
+<text x="20" y="879" font-size="13">出典：同社 2026年11月7日決算資料 p.2</text>
+</g></svg>
