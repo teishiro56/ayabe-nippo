@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="722" viewBox="0 0 360 722" role="img" aria-labelledby="title desc">
+<title id="title">中国の10月物価：工場の生産財は上昇、消費財と食品は下落</title>
+<desc id="desc">2026年10月、前年同月比。工場出荷価格では生産財が7.4パーセント上昇、消費財が0.1パーセント下落。消費者価格では食品が2.9パーセント下落、食品以外が1.5パーセント上昇。両パネルはマイナス4からプラス8パーセントの同じ尺度。総合PPI5.7パーセント、総合CPI0.7パーセント。各総合値は内訳の単純平均ではなく、価格転嫁率を表す図ではない。国家統計局の公表値からアヤベ日報作成。</desc>
+<rect width="360" height="722" rx="12" fill="#f7f5ef"/>
+<g font-family="Noto Sans CJK JP, sans-serif" fill="#192c3a">
+<text x="20" y="32" font-size="19" font-weight="700">値上がりは生産の上流に</text>
+<text x="20" y="58" font-size="14">中国・2026年10月／前年同月比（％）</text>
+<rect x="16" y="78" width="328" height="248" rx="8" fill="#fff"/>
+<text x="28" y="105" font-size="16" font-weight="700">工場から出荷する段階</text>
+<text x="28" y="129" font-size="14">総合 PPI ＋5.7％</text>
+<text x="28" y="160" font-size="15">生産財（原材料・部品など）</text>
+<text x="28" y="232" font-size="15">消費財（暮らしに使う製品）</text>
+<rect x="16" y="344" width="328" height="248" rx="8" fill="#fff"/>
+<text x="28" y="372" font-size="16" font-weight="700">家計が購入する段階</text>
+<text x="28" y="396" font-size="14">総合 CPI ＋0.7％</text>
+<text x="28" y="427" font-size="15">食品</text>
+<text x="28" y="499" font-size="15">食品以外（サービスも含む）</text>
+<line x1="54" x2="54" y1="173" y2="282" stroke="#d9e0e2" stroke-width="1"/><text x="54" y="306" text-anchor="middle" font-size="14">−4</text><line x1="134" x2="134" y1="173" y2="282" stroke="#78858b" stroke-width="1.4"/><text x="134" y="306" text-anchor="middle" font-size="14">0</text><line x1="214" x2="214" y1="173" y2="282" stroke="#d9e0e2" stroke-width="1"/><text x="214" y="306" text-anchor="middle" font-size="14">＋4</text><line x1="294" x2="294" y1="173" y2="282" stroke="#d9e0e2" stroke-width="1"/><text x="294" y="306" text-anchor="middle" font-size="14">＋8</text><line x1="54" x2="54" y1="440" y2="549" stroke="#d9e0e2" stroke-width="1"/><text x="54" y="573" text-anchor="middle" font-size="14">−4</text><line x1="134" x2="134" y1="440" y2="549" stroke="#78858b" stroke-width="1.4"/><text x="134" y="573" text-anchor="middle" font-size="14">0</text><line x1="214" x2="214" y1="440" y2="549" stroke="#d9e0e2" stroke-width="1"/><text x="214" y="573" text-anchor="middle" font-size="14">＋4</text><line x1="294" x2="294" y1="440" y2="549" stroke="#d9e0e2" stroke-width="1"/><text x="294" y="573" text-anchor="middle" font-size="14">＋8</text><rect x="134" y="180" width="148.0" height="18" fill="#176a76"/><text x="289.0" y="195" font-size="15" font-weight="700" text-anchor="start">＋7.4</text><rect x="132.0" y="252" width="2.0" height="18" fill="#b14c3c"/><text x="125.0" y="267" font-size="15" font-weight="700" text-anchor="end">−0.1</text><rect x="76.0" y="447" width="58.0" height="18" fill="#b14c3c"/><text x="69.0" y="462" font-size="15" font-weight="700" text-anchor="end">−2.9</text><rect x="134" y="519" width="30.0" height="18" fill="#176a76"/><text x="171.0" y="534" font-size="15" font-weight="700" text-anchor="start">＋1.5</text><text x="20" y="619" font-size="14">生産財は上昇。消費財と食品は下落。</text>
+<text x="20" y="643" font-size="14">2段の尺度は共通。対象・比重は異なる。</text>
+<text x="20" y="666" font-size="14">内訳は単純平均せず、転嫁率も示さない。</text>
+<text x="20" y="696" font-size="14">出典：国家統計局　作図：アヤベ日報</text>
+</g></svg>
