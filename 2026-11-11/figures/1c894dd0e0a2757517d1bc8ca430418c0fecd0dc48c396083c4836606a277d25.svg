@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="724" viewBox="0 0 360 724" role="img" aria-labelledby="title desc"><title id="title">J-LEOは宇宙で電波を中継し、地上で通信を管理する計画</title><desc id="desc">市販スマホと大型アンテナ衛星が直接通信し、衛星が地上設備へ電波を中継する模式図。基地局機能は日本の地上設備側に置く。J-LEOは2029年3月末までの国内運用開始目標で、年内の既存網による試験とは別計画。実際の衛星外形や距離の縮尺ではない。</desc><rect width="360" height="100%" rx="12" fill="#f3f1e9"/><g font-family="Noto Sans CJK JP,sans-serif">
+<text x="20" y="34" font-size="20" font-weight="700" text-anchor="start" fill="#203c43">つながる先は衛星、</text>
+<text x="20" y="61" font-size="20" font-weight="700" text-anchor="start" fill="#203c43">管理する機能は地上へ</text>
+<text x="20" y="88" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">J-LEO：2029年3月末までの開始目標</text>
+<rect x="16" y="108" width="328" height="365" rx="12" fill="#e9f1f3"/>
+<text x="30" y="132" font-size="14" font-weight="700" text-anchor="start" fill="#203c43">宇宙</text>
+<path d="M36 190 Q180 112 324 190" fill="none" stroke="#b4c9d1" stroke-width="2" stroke-dasharray="4 6"/>
+<path d="M126 171 L182 142 L240 171 L184 200 Z" fill="#37778b" stroke="#203c43" stroke-width="2"/>
+<path d="M140 178 L196 150 M154 185 L210 157 M168 192 L224 164 M140 164 L198 193 M154 157 L212 186 M168 150 L226 179" stroke="#a9d3df" stroke-width="1"/>
+<text x="180" y="225" font-size="16" font-weight="700" text-anchor="middle" fill="#203c43">大型アンテナの衛星</text>
+<text x="180" y="247" font-size="14" font-weight="400" text-anchor="middle" fill="#203c43">役割：電波の中継</text>
+<path d="M132 265 L67 345" stroke="#b26832" stroke-width="3"/>
+<path d="M132 265 l-4 12 m4-12 l-12 5 M67 345 l4-12 m-4 12 l12-5" fill="none" stroke="#b26832" stroke-width="3"/>
+<path d="M232 265 L286 345" stroke="#315e55" stroke-width="3"/>
+<path d="M232 265 l2 13 m-2-13 l12 7 M286 345 l-2-13 m2 13 l-12-7" fill="none" stroke="#315e55" stroke-width="3"/>
+<text x="27" y="291" font-size="14" font-weight="700" text-anchor="start" fill="#203c43">直接通信</text>
+<text x="255" y="291" font-size="14" font-weight="700" text-anchor="start" fill="#203c43">地上へ中継</text>
+<path d="M16 390 L80 378 L123 365 L157 389 L200 381 L245 390 L344 390 L344 473 L16 473Z" fill="#d4dfcc"/>
+<rect x="49" y="343" width="27" height="45" rx="4" fill="#fff" stroke="#203c43" stroke-width="2"/>
+<rect x="54" y="350" width="17" height="26" fill="#b9d4df"/>
+<path d="M270 350 Q270 377 301 377Z" fill="#fff" stroke="#203c43" stroke-width="2"/><path d="M286 368 L286 389 M278 389 H294 M277 357 L265 344" stroke="#203c43" stroke-width="3"/>
+<text x="35" y="417" font-size="15" font-weight="700" text-anchor="start" fill="#203c43">市販スマホ</text>
+<text x="219" y="417" font-size="15" font-weight="700" text-anchor="start" fill="#203c43">日本の地上設備</text>
+<text x="35" y="444" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">専用端末は不要</text>
+<text x="200" y="444" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">基地局機能・運用管理</text>
+<rect x="16" y="490" width="328" height="112" rx="8" fill="#fff"/>
+<text x="30" y="516" font-size="16" font-weight="700" text-anchor="start" fill="#203c43">これから構築するJ-LEO</text>
+<text x="30" y="542" font-size="15" font-weight="400" text-anchor="start" fill="#203c43">新しい衛星を製造・打上げ</text>
+<text x="30" y="568" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">1.7GHz帯を使い、国内で運用する計画</text>
+<text x="20" y="632" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">年内の「楽天最強衛星サービス」の</text>
+<text x="20" y="655" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">商用環境テストとは、別の衛星網。</text>
+<text x="20" y="686" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">模式図・縮尺なし／アヤベ日報作成</text>
+<text x="20" y="709" font-size="14" font-weight="400" text-anchor="start" fill="#203c43">出典：楽天発表・ケータイ Watch（11月9日）</text>
+</g></svg>
