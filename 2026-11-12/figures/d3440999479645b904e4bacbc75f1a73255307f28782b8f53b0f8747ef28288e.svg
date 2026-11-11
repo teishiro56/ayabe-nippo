@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="758" viewBox="0 0 360 758" role="img" aria-labelledby="title desc"><title id="title">動く前に、二つの未来を比べる</title><desc id="desc">棚に箱を置く二つの候補について落下などを予測し、より安全と評価した動作を選ぶ説明用の模式図。NTTの模擬実験成功率は適用なし73.1%、あり92.3%。</desc><style>text{font-family:'Noto Sans CJK JP',sans-serif;fill:#172d39;font-size:14px}.head{font-size:20px;font-weight:700}.bold{font-weight:700}.muted{fill:#455d68}</style><rect width="360" height="758" fill="#f5f4ed"/><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7" fill="none" stroke="#455d68"/></marker></defs>
+<text x="18" y="32" class="head">動く前に、未来を比べる</text>
+<text x="18" y="58" class="muted">NTTの技術を説明する模式例</text>
+<text x="18" y="96" class="bold">① 制御ソフトが置き方を考える</text>
+<path d="M180 109V129M88 145V129H272V145" fill="none" stroke="#455d68" stroke-width="2"/>
+<text x="20" y="166" class="bold">候補A：棚の内側</text><text x="196" y="166" class="bold">候補B：棚の端</text>
+<g stroke="#455d68" stroke-width="3"><path d="M24 184V268M150 184V268M24 239H150" fill="none"/><path d="M200 184V268M326 184V268M200 239H326" fill="none"/></g>
+<g fill="#a8bfcb" stroke="#455d68" stroke-width="2"><rect x="37" y="210" width="38" height="27"/><rect x="213" y="210" width="38" height="27"/></g>
+<g fill="#e8b85b" stroke="#84601f" stroke-width="2"><rect x="88" y="202" width="38" height="35"/><rect x="304" y="202" width="38" height="35" stroke-dasharray="4 3"/></g>
+<path d="M180 275V298" stroke="#455d68" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="18" y="325" class="bold">② 物理量を使って動きを予測</text>
+<text x="18" y="348">位置・姿勢・速度・質量を推定し、</text>
+<text x="18" y="370">物理法則を将来映像へ反映する</text>
+<g stroke="#455d68" stroke-width="3"><path d="M24 393V474M150 393V474M24 448H150" fill="none"/><path d="M200 393V474M326 393V474M200 448H326" fill="none"/></g>
+<g fill="#a8bfcb" stroke="#455d68" stroke-width="2"><rect x="37" y="419" width="38" height="27"/><rect x="213" y="419" width="38" height="27"/></g>
+<rect x="88" y="411" width="38" height="35" fill="#e8b85b" stroke="#84601f" stroke-width="2"/>
+<rect x="304" y="454" width="32" height="30" transform="rotate(24 320 469)" fill="#e8b85b" stroke="#84601f" stroke-width="2"/>
+<path d="M319 401Q350 414 340 448" fill="none" stroke="#9b4936" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="30" y="501" fill="#196f66">安定すると予測</text><text x="211" y="511" fill="#9b4936">落下を予測</text>
+<text x="18" y="544" class="bold">③ より安全と評価した候補を選択</text>
+<path d="M18 561H342" stroke="#c0c9c9"/>
+<text x="18" y="589" class="bold">模擬棚積み実験での成功率</text>
+<text x="18" y="614">適用なし</text><text x="342" y="614" text-anchor="end" class="bold">73.1%</text>
+<rect x="18" y="624" width="324" height="13" fill="#dbe1df"/><rect x="18" y="624" width="236.844" height="13" fill="#7795a5"/>
+<text x="18" y="659">適用あり</text><text x="342" y="659" text-anchor="end" class="bold">92.3%</text>
+<rect x="18" y="669" width="324" height="13" fill="#dbe1df"/><rect x="18" y="669" width="299.052" height="13" fill="#196f66"/>
+<text x="18" y="707" class="bold">＋19.2ポイント</text><text x="342" y="707" text-anchor="end">棒の全幅＝100%</text>
+<text x="18" y="735" class="muted">同社の実験値。実際の現場の実績ではない。</text></svg>
