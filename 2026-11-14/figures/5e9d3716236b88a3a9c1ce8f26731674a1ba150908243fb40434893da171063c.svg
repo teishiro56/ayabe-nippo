@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="560" viewBox="0 0 350 560">
+<rect width="350" height="560" fill="#f7f4ec"/>
+<g font-family="sans-serif" fill="#192f3c">
+<text x="20" y="32" font-size="20" font-weight="700">移民の流入と、働く人の構成</text>
+<text x="20" y="58" font-size="14">OECD公表・2026年11月12日</text>
+<text x="20" y="101" font-size="17" font-weight="700">① 2025年の恒久的移民の内訳</text>
+<text x="20" y="125" font-size="14">約610万人＝100％ ／ 前年比1.6％減</text>
+<rect x="20" y="145" width="139.5" height="36" fill="#32697d"/>
+<rect x="159.5" y="145" width="62" height="36" fill="#d69a45"/>
+<rect x="221.5" y="145" width="31" height="36" fill="#9b614c"/>
+<rect x="252.5" y="145" width="77.5" height="36" fill="#bac5c4"/>
+<rect x="20" y="202" width="14" height="14" fill="#32697d"/><text x="43" y="214" font-size="15">家族関連 45％</text>
+<rect x="187" y="202" width="14" height="14" fill="#d69a45"/><text x="210" y="214" font-size="15">労働目的 20％</text>
+<rect x="20" y="232" width="14" height="14" fill="#9b614c"/><text x="43" y="244" font-size="15">人道目的 10％</text>
+<rect x="187" y="232" width="14" height="14" fill="#bac5c4"/><text x="210" y="244" font-size="15">その他 25％*</text>
+<text x="20" y="274" font-size="14">* 公表3区分以外。100％から差引き算出。</text>
+<line x1="20" y1="300" x2="330" y2="300" stroke="#aab5b7"/>
+<text x="20" y="335" font-size="17" font-weight="700">② 移民が占める割合</text>
+<text x="20" y="359" font-size="14">年間流入ではなく、人口・雇用の構成</text>
+<text x="20" y="393" font-size="15">人口全体</text>
+<rect x="115" y="376" width="172" height="22" fill="#e2e5e2"/><rect x="115" y="376" width="103.2" height="22" fill="#32697d"/>
+<text x="297" y="393" font-size="15">12％</text>
+<text x="20" y="428" font-size="15">雇用全体</text>
+<rect x="115" y="411" width="172" height="22" fill="#e2e5e2"/><rect x="115" y="411" width="137.6" height="22" fill="#32697d"/>
+<text x="297" y="428" font-size="15">16％</text>
+<text x="115" y="454" font-size="14">0</text><text x="256" y="454" font-size="14">20％</text>
+<text x="20" y="490" font-size="14">①と②は母数が違い、合算できません。</text>
+<text x="20" y="516" font-size="14">出典：OECD 国際移民見通し2026</text>
+<text x="20" y="540" font-size="14">編集部作図 ／ 数値は公表値の丸めを保持</text>
+</g></svg>
