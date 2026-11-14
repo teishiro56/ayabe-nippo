@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="860" viewBox="0 0 380 860" role="img" aria-label="データセンター冷却設備から熱交換を経て養殖水を加温する実証の概念図">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#b05b08"/></marker></defs>
+<rect width="380" height="860" fill="#f5f3eb"/>
+<g font-family="Noto Sans CJK JP,sans-serif" fill="#16344a">
+<text x="20" y="32" font-size="20" font-weight="bold">捨てる熱を、飼育水の加温へ</text>
+<text x="20" y="60" font-size="16">公開された実証構想の熱の経路</text>
+<text x="20" y="91" font-size="16" font-weight="bold">① データセンターの冷却設備</text>
+<g fill="#254764"><rect x="40" y="112" width="65" height="120" rx="5"/><rect x="120" y="112" width="65" height="120" rx="5"/></g>
+<g stroke="#c6dce6" stroke-width="4"><path d="M50 132H95M50 152H95M50 172H95M50 192H95M50 212H95M130 132H175M130 152H175M130 172H175M130 192H175M130 212H175"/></g>
+<path d="M210 130C235 145 190 155 215 173S190 202 215 220" fill="none" stroke="#b05b08" stroke-width="4"/>
+<text x="245" y="145" font-size="15">比較的</text><text x="245" y="168" font-size="15">低温の熱</text>
+<path d="M190 242V287" stroke="#b05b08" stroke-width="7" marker-end="url(#arrow)"/>
+<text x="225" y="267" font-size="15">回収</text>
+<text x="20" y="320" font-size="16" font-weight="bold">② 熱交換・熱供給設備</text>
+<rect x="70" y="337" width="235" height="98" rx="12" fill="#f5d7a7"/>
+<path d="M100 355V415M124 355V415M148 355V415M172 355V415M196 355V415M220 355V415M244 355V415M268 355V415" stroke="#b05b08" stroke-width="7"/>
+<path d="M190 445V491" stroke="#b05b08" stroke-width="7" marker-end="url(#arrow)"/>
+<text x="225" y="472" font-size="15">熱を届ける</text>
+<text x="20" y="527" font-size="16" font-weight="bold">③ 飼育水を加温 → エビを飼育</text>
+<path d="M55 555V650Q190 680 325 650V555" stroke="#177e80" stroke-width="4" fill="#b9e4df"/>
+<ellipse cx="190" cy="555" rx="135" ry="24" fill="#ddf2ec" stroke="#177e80" stroke-width="3"/>
+<path d="M145 600Q175 580 205 605Q225 630 190 639Q163 640 154 623M158 600L148 587M168 595L164 581M183 596L185 582M207 612L232 605M206 620L235 620M203 630L228 638" stroke="#177e80" fill="none" stroke-width="4"/>
+<text x="23" y="710" font-size="16" font-weight="bold">測るのは、途中の熱と最後の効果</text>
+<text x="23" y="739" font-size="15">回収熱量・届くまでの温度変化</text>
+<text x="23" y="764" font-size="15">水温の維持・加温エネルギー削減</text>
+<text x="20" y="801" font-size="16">矢印は熱の移動。配管・水の流れではない。</text>
+<text x="20" y="823" font-size="16">具体的配管や温度の設計値は未公表。</text>
+<text x="20" y="845" font-size="16">出典：NTTグリーン＆フード／独自作図</text>
+</g></svg>
