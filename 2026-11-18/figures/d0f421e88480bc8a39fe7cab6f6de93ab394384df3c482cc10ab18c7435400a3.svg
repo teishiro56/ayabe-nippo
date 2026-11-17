@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="738" viewBox="0 0 320 738" role="img" aria-labelledby="title desc" lang="ja">
+<title id="title">GPT-6.2 AstraとSolのAPI標準料金比較</title>
+<desc id="desc">100万トークン当たり米ドル。通常入力はAstraが8ドル、Solが2ドル。出力はAstraが40ドル、Solが10ドル。全棒グラフは0から40ドルの共通目盛。キャッシュ入力の別料金は含まない。出典はOpenAIのモデル紹介記事。</desc>
+<rect width="320" height="738" rx="14" fill="#F4F7F5"/>
+<g font-family="Noto Sans CJK JP, sans-serif" fill="#17362F">
+<text x="20" y="36" font-size="17" font-weight="700">GPT-6.2 Astra / Sol</text>
+<text x="20" y="69" font-size="23" font-weight="700">API標準料金を比較</text>
+<text x="20" y="102" font-size="16">単位：米ドル／100万トークン</text>
+<text x="20" y="145" font-size="19" font-weight="700">入力（通常）</text>
+<g stroke="#CCD8D1" stroke-width="1">
+<path d="M24 184V296 M88 184V296 M152 184V296 M216 184V296 M280 184V296"/>
+<path d="M24 390V502 M88 390V502 M152 390V502 M216 390V502 M280 390V502"/>
+</g>
+<g font-size="17" font-weight="700">
+<text x="24" y="177">Astra</text><text x="280" y="177" text-anchor="end">8ドル</text>
+<text x="24" y="247">Sol</text><text x="280" y="247" text-anchor="end">2ドル</text>
+</g>
+<rect x="24" y="188" width="51.2" height="31" fill="#176B54"/>
+<rect x="24" y="258" width="12.8" height="31" fill="#486A94"/>
+<g font-size="16" text-anchor="middle">
+<text x="24" y="318">0</text><text x="88" y="318">10</text><text x="152" y="318">20</text><text x="216" y="318">30</text><text x="280" y="318">40</text>
+</g>
+<text x="20" y="357" font-size="19" font-weight="700">出力</text>
+<g font-size="17" font-weight="700">
+<text x="24" y="383">Astra</text><text x="280" y="383" text-anchor="end">40ドル</text>
+<text x="24" y="453">Sol</text><text x="280" y="453" text-anchor="end">10ドル</text>
+</g>
+<rect x="24" y="394" width="256" height="31" fill="#176B54"/>
+<rect x="24" y="464" width="64" height="31" fill="#486A94"/>
+<g font-size="16" text-anchor="middle">
+<text x="24" y="524">0</text><text x="88" y="524">10</text><text x="152" y="524">20</text><text x="216" y="524">30</text><text x="280" y="524">40</text>
+</g>
+<text x="20" y="563" font-size="16">入力・出力とも同じ0〜40の目盛。</text>
+<text x="20" y="590" font-size="16">キャッシュ入力の別料金は</text>
+<text x="20" y="617" font-size="16">この比較に含めていません。</text>
+<line x1="20" y1="641" x2="300" y2="641" stroke="#B7CBC0"/>
+<text x="20" y="670" font-size="16" fill="#275C4D">出典：OpenAI モデル紹介記事</text>
+<text x="20" y="697" font-size="16" fill="#275C4D">Introducing GPT-6.2 Astra and Sol</text>
+<text x="20" y="724" font-size="16" fill="#275C4D">2026年11月18日確認</text>
+
+</g>
+</svg>

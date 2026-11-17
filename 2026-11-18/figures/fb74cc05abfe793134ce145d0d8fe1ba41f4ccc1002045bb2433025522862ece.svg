@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="792" viewBox="0 0 320 792" role="img" aria-labelledby="title desc" lang="ja">
+<title id="title">コンゴ民主共和国のブンディブギョウイルス病：WHOが報告した規模と広がり</title>
+<desc id="desc">2026年11月17日のWHO発表。報告症例は11,000件超、報告死亡は5,400人。報告地域は8州の67保健区域。症例数を確定症例数とは表記せず、死亡割合は算出していません。地理的な分布を示す地図ではありません。</desc>
+<rect width="320" height="792" rx="14" fill="#F4F7F5"/>
+<g font-family="Noto Sans CJK JP, sans-serif" fill="#17362F">
+<rect x="16" y="20" width="4" height="60" rx="2" fill="#18745D"/>
+<text x="28" y="39" font-size="16" font-weight="700">WHO REPORT · 2026.11.17</text>
+<text x="28" y="71" font-size="22" font-weight="700">流行の規模と広がり</text>
+<text x="16" y="109" font-size="17" font-weight="700">コンゴ民主共和国</text>
+<text x="16" y="138" font-size="16">ブンディブギョウイルス病</text>
+<rect x="16" y="161" width="288" height="111" rx="12" fill="#FFFFFF" stroke="#CBDAD3"/>
+<text x="32" y="191" font-size="17" font-weight="700">報告症例</text>
+<text x="30" y="246" font-size="40" font-weight="700">11,000<tspan font-size="23"> 件超</tspan></text>
+<rect x="16" y="284" width="288" height="111" rx="12" fill="#FFFFFF" stroke="#CBDAD3"/>
+<text x="32" y="314" font-size="17" font-weight="700">報告死亡</text>
+<text x="30" y="369" font-size="40" font-weight="700">5,400<tspan font-size="23"> 人</tspan></text>
+<rect x="16" y="407" width="288" height="104" rx="12" fill="#E0ECE5"/>
+<text x="32" y="437" font-size="17" font-weight="700">報告された地域</text>
+<text x="32" y="482" font-size="30" font-weight="700">8<tspan font-size="18"> 州の </tspan>67<tspan font-size="18"> 保健区域</tspan></text>
+<text x="16" y="544" font-size="16">「報告症例」を、検査で確定した</text>
+<text x="16" y="571" font-size="16">症例だけの数としては扱って</text>
+<text x="16" y="598" font-size="16">いません。死亡割合も算出して</text>
+<text x="16" y="625" font-size="16">いません。</text>
+<line x1="16" y1="648" x2="304" y2="648" stroke="#B7CBC0"/>
+<text x="16" y="678" font-size="16" fill="#275C4D">出典：WHO事務局長の</text>
+<text x="16" y="705" font-size="16" fill="#275C4D">緊急委員会冒頭発言</text>
+<text x="16" y="740" font-size="16" fill="#275C4D">2026年11月17日発表</text>
+<text x="16" y="767" font-size="16" fill="#275C4D">数値は同発表時点</text>
+
+</g>
+</svg>
