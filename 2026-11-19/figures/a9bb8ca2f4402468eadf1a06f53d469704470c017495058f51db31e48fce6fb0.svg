@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="790" viewBox="0 0 320 790" role="img" aria-labelledby="fuel-title fuel-desc" lang="ja">
+<title id="fuel-title">原油とLNG、輸入数量が減っても輸入額は増加</title>
+<desc id="fuel-desc">財務省2026年10月貿易統計速報。前年同月比で、原油及び粗油の数量は0.7%減、輸入額は60.5%増。液化天然ガスの数量は26.1%減、輸入額は12.5%増。全4本の棒はマイナス40%からプラス80%の共通尺度。輸入額は円建て。数量と金額の増減率の差を価格上昇率とは解釈できない。</desc>
+<rect width="320" height="790" rx="14" fill="#F4F7F5"/>
+<g font-family="Noto Sans CJK JP, sans-serif" fill="#17362F">
+<text x="20" y="35" font-size="17" font-weight="700">10月の燃料輸入</text>
+<text x="20" y="69" font-size="22" font-weight="700">量が減っても、金額は増加</text>
+<text x="20" y="101" font-size="16">2026年10月・速報／前年同月比</text>
+<text x="20" y="127" font-size="16">単位：%　輸入額は円建て</text>
+<g stroke="#CCD8D1" stroke-width="1">
+<path d="M24 182V492 M104 182V492 M184 182V492 M264 182V492"/>
+</g>
+<line x1="104" x2="104" y1="182" y2="492" stroke="#617B70" stroke-width="2"/>
+<text x="20" y="169" font-size="18" font-weight="700">原油及び粗油</text>
+<text x="24" y="203" font-size="16">数量</text><text x="288" y="203" font-size="17" text-anchor="end" font-weight="700">−0.7%</text>
+<rect x="102.6" y="215" width="1.4" height="28" fill="#486A94"/>
+<text x="24" y="272" font-size="16">輸入額</text><text x="288" y="272" font-size="17" text-anchor="end" font-weight="700">＋60.5%</text>
+<rect x="104" y="284" width="121" height="28" fill="#176B54"/>
+<rect x="16" y="323" width="288" height="31" fill="#F4F7F5"/>
+<text x="20" y="345" font-size="18" font-weight="700">液化天然ガス（LNG）</text>
+<text x="24" y="379" font-size="16">数量</text><text x="288" y="379" font-size="17" text-anchor="end" font-weight="700">−26.1%</text>
+<rect x="51.8" y="391" width="52.2" height="28" fill="#486A94"/>
+<text x="24" y="448" font-size="16">輸入額</text><text x="288" y="448" font-size="17" text-anchor="end" font-weight="700">＋12.5%</text>
+<rect x="104" y="460" width="25" height="28" fill="#176B54"/>
+<g font-size="16" text-anchor="middle"><text x="24" y="517">−40</text><text x="104" y="517">0</text><text x="184" y="517">＋40</text><text x="264" y="517">＋80</text></g>
+<text x="20" y="552" font-size="16">全4本を同じ目盛で比較。</text>
+<text x="20" y="579" font-size="16">数量と金額の増減率の差は、</text>
+<text x="20" y="606" font-size="16">価格上昇率ではありません。</text>
+<text x="20" y="638" font-size="16">為替・資源価格などの寄与は</text>
+<text x="20" y="665" font-size="16">この図だけでは分解できません。</text>
+<line x1="20" y1="687" x2="300" y2="687" stroke="#B7CBC0"/>
+<text x="20" y="714" font-size="16">出典：財務省「貿易統計（速報）」</text>
+<text x="20" y="741" font-size="16">主要商品別輸入（世界）</text>
+<text x="20" y="768" font-size="16">2026年11月18日発表／編集部作図</text>
+</g>
+</svg>
