@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="1050" viewBox="0 0 360 1050" role="img" aria-labelledby="title desc" lang="ja">
+<title id="title">星が相手のガスに入ると何が起こるか</title><desc id="desc">共通外層進化の模式図。大きな星の外側のガスに伴星が入る。抵抗で軌道エネルギーを失い、内側へ移動しながらガスを放出。ガスを十分放出して二つの星が残る場合と、中心に落ち込んで合体する場合がある。AT2025abaoは合体を示唆するが最終的確認には追加観測が必要。</desc>
+<rect width="360" height="1050" rx="16" fill="#101e35"/>
+<g font-family="Noto Sans CJK JP,sans-serif" fill="#fff">
+<text x="20" y="35" font-size="19" font-weight="700">星が相手のガスに入ると</text>
+<text x="20" y="64" font-size="16">共通外層進化・説明用の模式図</text>
+<text x="20" y="89" font-size="14" fill="#cbd7e9">大きさ・距離・明るさは実測比ではない</text>
+<text x="20" y="131" font-size="18" font-weight="700">① 膨らんだ星のガスへ入る</text>
+<circle cx="153" cy="234" r="76" fill="#be593e" opacity=".7"/><circle cx="153" cy="234" r="16" fill="#ffce70"/>
+<ellipse cx="153" cy="234" rx="76" ry="45" fill="none" stroke="#e6d6af" stroke-dasharray="5 5"/>
+<circle cx="224" cy="225" r="11" fill="#f6f0c8"/>
+<text x="239" y="197" font-size="16">伴星</text><path d="M252 204 L231 216" stroke="#fff"/>
+<text x="21" y="330" font-size="16">大きな星の外側のガスが</text><text x="21" y="355" font-size="16">二つの星を共に包む。</text>
+<path d="M180 374v27m-7-7 7 7 7-7" stroke="#d2ddec" fill="none" stroke-width="2"/>
+<text x="20" y="431" font-size="18" font-weight="700">② 抵抗で軌道が内側へ</text>
+<circle cx="153" cy="528" r="76" fill="#be593e" opacity=".7"/><circle cx="153" cy="528" r="16" fill="#ffce70"/>
+<path d="M246 517 C236 458 67 458 81 536 C94 602 231 575 211 519 C192 479 128 494 133 530" stroke="#ffe6a8" stroke-width="2" fill="none"/>
+<circle cx="133" cy="530" r="9" fill="#f6f0c8"/>
+<path d="M85 476L58 453m9 0-9 0 1 9 M223 579l28 22m-1-9 1 9-9-1" stroke="#f39d77" stroke-width="3" fill="none"/>
+<text x="20" y="634" font-size="16">軌道エネルギーを失い、落ち込む。</text><text x="20" y="659" font-size="16">周囲へガスが放出される。</text>
+<path d="M180 677v26m0 0-90 20m90-20 90 20" stroke="#d2ddec" fill="none" stroke-width="2"/>
+<circle cx="69" cy="771" r="11" fill="#ffce70"/><circle cx="104" cy="771" r="9" fill="#f6f0c8"/>
+<ellipse cx="87" cy="771" rx="37" ry="22" stroke="#ddd" stroke-dasharray="4 4" fill="none"/>
+<circle cx="268" cy="771" r="26" fill="#ffce70"/>
+<text x="22" y="823" font-size="16" font-weight="700">二つの星が残る</text><text x="227" y="823" font-size="16" font-weight="700">合体する</text>
+<text x="22" y="850" font-size="14">外側のガスを</text><text x="22" y="873" font-size="14">十分に放出した場合</text>
+<text x="215" y="850" font-size="14">伴星が中心まで</text><text x="215" y="873" font-size="14">落ち込んだ場合</text>
+<line x1="20" x2="340" y1="898" y2="898" stroke="#73839b"/>
+<text x="20" y="926" font-size="15">今回の天体は合体を示唆。</text><text x="20" y="951" font-size="15">Natureは追加観測による確証を留保。</text>
+<text x="20" y="990" font-size="14" fill="#cbd7e9">出典：京大詳細資料・NASA・Nature</text><text x="20" y="1017" font-size="14" fill="#cbd7e9">2026年11月18〜19日／編集部作図</text>
+</g></svg>
